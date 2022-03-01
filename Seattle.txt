@@ -1,0 +1,7 @@
+Seattle.com 1
+xyz.com 21
+web5.com 2
+webxy.com 4
+qwerty.com 12
+abc100.com 7
+abc200.com 13

@@ -1,0 +1,4 @@
+xyz.com 42
+abc200.com 26
+qwerty.com 24
+abc100.com 14
